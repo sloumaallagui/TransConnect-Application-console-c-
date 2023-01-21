@@ -1,0 +1,6 @@
+20,Ahmed,Allagui,02/02/0199 00:00:00,2050,ahmed200@gmail.com,,10/01/2023 20:02:53,6000,Directeur
+101,karim,mk,12/07/1998 00:00:00,2090,karim@gmail.com,25648793,10/01/2023 20:28:39,5000,chauffeur
+102,aymen,mk,12/07/1998 00:00:00,2090,karim@gmail.com,25648793,10/01/2023 20:28:39,5000,Directeur général
+545,boukhris,majdi,12/07/2023 00:00:00,2015,kg25@g.com,54521131,11/01/2023 21:11:52,9000,chef d'équipe
+541,malek,ghariani,12/07/2023 00:00:00,2015,sloumaa@g.com,54521131,11/01/2023 21:11:52,9000,directeur
+27,mohcine,jcp,05/05/1999 00:00:00,2000,mohcine@gmail.com,54521144,11/01/2023 22:40:13,12000,chef d'équipe

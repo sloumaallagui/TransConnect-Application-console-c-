@@ -1,0 +1,4 @@
+150,akrem,all,20/12/2020 00:00:00,21574,akrem@gmail.com,8000000,1,Mornag,0
+160,aymen,Allagui,12/12/1998 00:00:00,2500,hjs@gmail.com,26544477,2,Paris,0
+55,slouma,all,12/12/2022 00:00:00,2050,slouma@allagui.com,54521131,3,Mornag,0
+marseille,mahmoud,slim,02/02/2017 00:00:00,250,sm@gmail.com,56877412,4,paris,0

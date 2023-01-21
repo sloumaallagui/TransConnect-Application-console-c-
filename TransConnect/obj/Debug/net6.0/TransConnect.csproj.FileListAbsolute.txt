@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\TransConnect\TransConnect\bin\Debug\net6.0\TransConnect.exe
+C:\Users\Admin\source\repos\TransConnect\TransConnect\bin\Debug\net6.0\TransConnect.deps.json
+C:\Users\Admin\source\repos\TransConnect\TransConnect\bin\Debug\net6.0\TransConnect.runtimeconfig.json
+C:\Users\Admin\source\repos\TransConnect\TransConnect\bin\Debug\net6.0\TransConnect.dll
+C:\Users\Admin\source\repos\TransConnect\TransConnect\bin\Debug\net6.0\TransConnect.pdb
+C:\Users\Admin\source\repos\TransConnect\TransConnect\obj\Debug\net6.0\TransConnect.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TransConnect\TransConnect\obj\Debug\net6.0\TransConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TransConnect\TransConnect\obj\Debug\net6.0\TransConnect.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TransConnect\TransConnect\obj\Debug\net6.0\TransConnect.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TransConnect\TransConnect\obj\Debug\net6.0\TransConnect.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TransConnect\TransConnect\obj\Debug\net6.0\TransConnect.dll
+C:\Users\Admin\source\repos\TransConnect\TransConnect\obj\Debug\net6.0\refint\TransConnect.dll
+C:\Users\Admin\source\repos\TransConnect\TransConnect\obj\Debug\net6.0\TransConnect.pdb
+C:\Users\Admin\source\repos\TransConnect\TransConnect\obj\Debug\net6.0\TransConnect.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TransConnect\TransConnect\obj\Debug\net6.0\ref\TransConnect.dll
